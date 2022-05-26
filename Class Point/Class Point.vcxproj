@@ -132,8 +132,6 @@
     <ClInclude Include="Deck.h" />
     <ClInclude Include="Monster.h" />
     <ClInclude Include="MonsterGenerator.h" />
-    <ClInclude Include="playBlackjack.h" />
-    <ClInclude Include="PlayerChoice.h" />
     <ClInclude Include="Point.h" />
   </ItemGroup>
   <ItemGroup>
@@ -142,8 +140,6 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Monster.cpp" />
     <ClCompile Include="MonsterGenerator.cpp" />
-    <ClCompile Include="playBlackjack.cpp" />
-    <ClCompile Include="PlayerChoice.cpp" />
     <ClCompile Include="Point.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
